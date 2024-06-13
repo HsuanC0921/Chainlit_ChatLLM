@@ -46,7 +46,7 @@ To run the Chainlit ChatLLM locally, please follow these steps:
 
 ## Contributing
 
-We welcome contributions to the Chainlit ChatLLM project! If you encounter any issues or have ideas for enhancements, please feel free to open an issue or submit a pull request on the GitHub repository. We appreciate your feedback and support.
+I don't recommend contributing to the Chainlit ChatLLM project, as it's not much of a good and worthwhile follow-on development. However, if you encounter any issues or have any ideas for improvements, please feel free to open an issue or submit a pull request in the GitHub repository. I appreciate your feedback and support.
 
 ## License
 
